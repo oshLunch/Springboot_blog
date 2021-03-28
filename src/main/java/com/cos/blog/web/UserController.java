@@ -18,7 +18,7 @@ import com.cos.blog.config.auth.PrincipalDetails;
 import com.cos.blog.domain.user.User;
 import com.cos.blog.service.UserService;
 import com.cos.blog.web.dto.CommonRespDto;
-import com.cos.blog.web.user.dto.UserUpdateReqDto;
+import com.cos.blog.web.dto.user.UserUpdateReqDto;
 
 import lombok.RequiredArgsConstructor;
 

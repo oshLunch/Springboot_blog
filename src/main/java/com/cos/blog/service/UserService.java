@@ -6,7 +6,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.cos.blog.domain.user.User;
 import com.cos.blog.domain.user.UserRepository;
-import com.cos.blog.web.user.dto.UserUpdateReqDto;
+import com.cos.blog.web.dto.user.UserUpdateReqDto;
 
 import lombok.RequiredArgsConstructor;
 

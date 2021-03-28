@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
 import com.cos.blog.service.AuthService;
-import com.cos.blog.web.auth.dto.AuthJoinReqDto;
+import com.cos.blog.web.dto.auth.AuthJoinReqDto;
 
 import lombok.RequiredArgsConstructor;
 

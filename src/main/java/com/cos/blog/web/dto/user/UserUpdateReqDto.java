@@ -1,4 +1,4 @@
-package com.cos.blog.web.user.dto;
+package com.cos.blog.web.dto.user;
 
 import lombok.Data;
 

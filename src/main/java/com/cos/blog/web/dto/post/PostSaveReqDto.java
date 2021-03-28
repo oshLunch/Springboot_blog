@@ -1,4 +1,4 @@
-package com.cos.blog.web.post.dto;
+package com.cos.blog.web.dto.post;
 
 import com.cos.blog.domain.post.Post;
 

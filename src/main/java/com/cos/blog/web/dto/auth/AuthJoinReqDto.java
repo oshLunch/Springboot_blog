@@ -1,4 +1,4 @@
-package com.cos.blog.web.auth.dto;
+package com.cos.blog.web.dto.auth;
 
 import javax.persistence.Column;
 
